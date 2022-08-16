@@ -4,9 +4,9 @@
 
 ## Screenshot
 
-![Project-Screenshot](Screenshot1.PNG)
-![Project-Screenshot](Screenshot2.PNG)
-![Project-Screenshot](Screenshot3.PNG)
+![Project-Screenshot](screenshot1.PNG)
+![Project-Screenshot](screenshot2.PNG)
+![Project-Screenshot](screenshot3.PNG)
 
 ## Technologies used?
 
